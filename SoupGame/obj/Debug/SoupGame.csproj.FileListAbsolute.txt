@@ -1,0 +1,7 @@
+C:\Users\Lia\source\repos\SoupGame\SoupGame\bin\Debug\SoupGame.exe.config
+C:\Users\Lia\source\repos\SoupGame\SoupGame\bin\Debug\SoupGame.exe
+C:\Users\Lia\source\repos\SoupGame\SoupGame\bin\Debug\SoupGame.pdb
+C:\Users\Lia\source\repos\SoupGame\SoupGame\obj\Debug\SoupGame.csprojAssemblyReference.cache
+C:\Users\Lia\source\repos\SoupGame\SoupGame\obj\Debug\SoupGame.csproj.CoreCompileInputs.cache
+C:\Users\Lia\source\repos\SoupGame\SoupGame\obj\Debug\SoupGame.exe
+C:\Users\Lia\source\repos\SoupGame\SoupGame\obj\Debug\SoupGame.pdb
